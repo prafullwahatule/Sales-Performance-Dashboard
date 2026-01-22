@@ -3,12 +3,12 @@
 ## 📊 Project Overview
 
 **Project Name:** Sales Performance Dashboard  
-**Client:** ShopEase LLC  
+**Client:** Synthetic Ecommerce    
 **Industry:** E-commerce & Retail  
 **Duration:** 10 Months  
 **Tools Used:** Power BI, SQL, Excel, DAX
 
-ShopEase LLC is a growing e-commerce retail company that sells products across multiple regions. The management team faced challenges in tracking overall sales performance due to data scattered across multiple sources and lack of real-time insights.
+Synthetic Ecommerce is a growing e-commerce retail company that sells products across multiple regions. The management team faced challenges in tracking overall sales performance due to data scattered across multiple sources and lack of real-time insights.
 
 The goal of this project was to design a centralized, executive-level Power BI dashboard that provides a clear and accurate view of sales, revenue growth, regional performance, and product trends, enabling leadership to make data-driven decisions.
 
@@ -16,7 +16,7 @@ The goal of this project was to design a centralized, executive-level Power BI d
 
 ## 🧩 Business Problem
 
-Before this project, ShopEase LLC faced the following problems:
+Before this project, Synthetic Ecommerce faced the following problems:
 
 ### 1. Sales data was fragmented
 
