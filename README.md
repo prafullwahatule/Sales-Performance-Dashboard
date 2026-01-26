@@ -196,7 +196,8 @@ DIVIDE ( [Returned Orders], [Total Orders] )
 - Revenue Growth & Trends  
 - High-level business snapshot  
 
-![Executive Overview](images/executive_dashboard.png)
+![Executive Overview](https://github.com/user-attachments/assets/90bd25a7-4143-463e-88ed-815160a9af6a)
+
 
 ---
 
@@ -205,7 +206,8 @@ DIVIDE ( [Returned Orders], [Total Orders] )
 - Top-performing products  
 - Category-wise comparison across regions  
 
-![Product Performance](images/product_dashboard.png)
+![Product Performance](https://github.com/user-attachments/assets/bef7690c-10aa-4ef8-a3bf-fbaa5e9dd3eb)
+
 
 ---
 
@@ -214,7 +216,8 @@ DIVIDE ( [Returned Orders], [Total Orders] )
 - Average delivery days  
 - Returned vs completed orders  
 
-![Region Delivery](images/regional_dashboard.png)
+![Region   Delivery](https://github.com/user-attachments/assets/bff26769-329e-4eac-a78b-22ab06cb1241)
+
 
 ---
 
@@ -224,7 +227,8 @@ DIVIDE ( [Returned Orders], [Total Orders] )
 - Return rates by payment method  
 - Customer rating distribution  
 
-![Customer Payment](images/customer_payment_dashboard.png)
+![Customer   Payment](https://github.com/user-attachments/assets/3a0f162b-454b-411e-a425-d89637820837)
+
 
 ---
 
@@ -233,7 +237,8 @@ DIVIDE ( [Returned Orders], [Total Orders] )
 - Business recommendations  
 - Actionable strategies  
 
-![Insights Recommendation](images/insights_dashboard.png)
+![Insights   Recommendation](https://github.com/user-attachments/assets/fd2bcf56-2ed4-4ca4-9d36-536abe11e33b)
+
 
 ---
 
@@ -332,3 +337,24 @@ Sales-Performance-Dashboard/
 └── reports/
     └── sales_performance_summary.pdf
 ```
+
+
+---
+---
+
+## 🙏 Acknowledgement  
+
+Special thanks to the **Synthetic Ecommerce Retail Sales Sharing Dataset (Open Data)** for providing an excellent real-world dataset.  
+This project was created as part of a **Data Analytics learning journey** using **Power BI**.  
+
+---
+
+## 📎 Author  
+
+**👤 Name:** Prafull Wahatule  
+**📧 Email:** [prafullwahatule@gmail.com](mailto:prafullwahatule@gmail.com)  
+**💻 GitHub:** [prafullwahatule](https://github.com/prafullwahatule)  
+
+---
+
+⭐ *If you found this project helpful, don’t forget to star the repository!* ⭐
